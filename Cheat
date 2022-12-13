@@ -1,7 +1,7 @@
 local player = game.Players.LocalPlayer
 
 local library = loadstring(game:HttpGet("https://pastebin.com/raw/RvJ0qewm", true))()
-local UI1 = library:CreateWindow("Test UI")
+local UI1 = library:CreateWindow("Hikottcheat")
 
 local Speed = UI1:Button("Farm1World", function()
  while true do
